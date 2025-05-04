@@ -65,7 +65,7 @@ idf.py set-target esp32s3
 idf.py build
 idf.py -p PORT flash
 
-Replace PORT with your serial port (e.g., /dev/ttyUSB0).
+Replace PORT with your serial port (e.g. COM2, COM7).
 
 Monitor Output 📡:
 idf.py monitor
