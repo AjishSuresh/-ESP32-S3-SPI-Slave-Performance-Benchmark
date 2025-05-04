@@ -48,7 +48,7 @@ A serial monitor (e.g., minicom or PuTTY) for debugging 🖨️
 Installation
 
 Clone the Repository 📥:
-git clone https://github.com/your-username/esp32-s3-spi-benchmark.git
+git clone https://github.com/AjishSuresh/-ESP32-S3-SPI-Slave-Performance-Benchmark.git
 cd esp32-s3-spi-benchmark
 
 
